@@ -1,0 +1,17 @@
+F:\programacion y laboratorio II\TP-4\TP-4\Entidades\bin\Debug\Entidades.dll.config
+F:\programacion y laboratorio II\TP-4\TP-4\Entidades\bin\Debug\Entidades.dll
+F:\programacion y laboratorio II\TP-4\TP-4\Entidades\bin\Debug\Entidades.pdb
+F:\programacion y laboratorio II\TP-4\TP-4\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+F:\programacion y laboratorio II\TP-4\TP-4\Entidades\obj\Debug\Entidades.csproj.GenerateResource.cache
+F:\programacion y laboratorio II\TP-4\TP-4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\programacion y laboratorio II\TP-4\TP-4\Entidades\obj\Debug\Entidades.dll
+F:\programacion y laboratorio II\TP-4\TP-4\Entidades\obj\Debug\Entidades.pdb
+F:\programacion y laboratorio II\TP-4\TP-4\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+F:\recutp\TP-4\TP-4\Entidades\bin\Debug\Entidades.dll.config
+F:\recutp\TP-4\TP-4\Entidades\bin\Debug\Entidades.dll
+F:\recutp\TP-4\TP-4\Entidades\bin\Debug\Entidades.pdb
+F:\recutp\TP-4\TP-4\Entidades\obj\Debug\Entidades.Properties.Resources.resources
+F:\recutp\TP-4\TP-4\Entidades\obj\Debug\Entidades.csproj.GenerateResource.cache
+F:\recutp\TP-4\TP-4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+F:\recutp\TP-4\TP-4\Entidades\obj\Debug\Entidades.dll
+F:\recutp\TP-4\TP-4\Entidades\obj\Debug\Entidades.pdb
